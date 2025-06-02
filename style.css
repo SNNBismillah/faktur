@@ -111,8 +111,8 @@ header img {
 }
 
 header img {
-    max-height: 100%;
-    max-width: 100%;
+    max-height: 60%;
+    max-width: 35%;
 }
 
 header input {
@@ -131,7 +131,7 @@ article,
 article address,
 table.meta,
 table.inventory {
-    margin: 0 0 3em;
+    margin: 0 0 1em;
     clear: both;
 }
 
@@ -267,10 +267,10 @@ Tambahkan gaya khusus untuk baris di bawah alamat dan nomor */
 .custom-line {
     border: none;
     border-bottom: 1px solid #000;
-    margin: 5px 0;
+    margin: 1px 0;
 }
 
 /* Gaya untuk teks yang lebih kecil */
 .small-text {
-    font-size: 40%;
+    font-size: 20%;
 }
