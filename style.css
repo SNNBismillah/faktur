@@ -111,8 +111,8 @@ header img {
 }
 
 header img {
-    max-height: 60%;
-    max-width: 35%;
+    max-height: 35%;
+    max-width: 60%;
 }
 
 header input {
@@ -148,7 +148,7 @@ article h1 {
 
 article address {
     float: left;
-    font-size: 70%;
+    font-size: 125%;
     font-weight: bold;
 }
 
