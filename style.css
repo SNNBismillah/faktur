@@ -34,8 +34,8 @@ span[contenteditable] {
 
 /* heading */
 h1 {
-    font: bold 100% sans-serif;
-    letter-spacing: 0.5em;
+    font: bold 70% sans-serif;
+    letter-spacing: 0.1em;
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 1em; /* 
@@ -196,8 +196,8 @@ td { border-color: #DDD; }
 /* aside */
 aside h1 {
     border: none;
-    border-width: 0 0 5px;
-    margin: 0 0 5em;
+    border-width: 0 0 1px;
+    margin: 0 0 1em;
     border-color: #999;
     border-bottom-style: solid;
 }
