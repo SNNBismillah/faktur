@@ -94,7 +94,7 @@ header h1 {
 
 header address {
     float: left;
-    font-size: 70%;
+    font-size: 75%;
     font-style: normal;
     line-height: 1.25;
     margin: 0 1em 1em 0;
@@ -148,7 +148,7 @@ article h1 {
 
 article address {
     float: left;
-    font-size: 80%;
+    font-size: 70%;
     font-weight: bold;
 }
 
